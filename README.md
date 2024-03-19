@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aybukesenturk
+- 👋 Hi, I’m @aybukecoper
 - 👀 I’m interested in Machine Learning, Deep Learning, Artificial Neural Networks
 - 🌱 I’m currently learning Python and Tensorflow
 - 💞️ I’m looking to collaborate on ...
