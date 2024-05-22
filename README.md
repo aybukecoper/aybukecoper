@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aybukecoper
-- 👀 I’m interested in Machine Learning, Deep Learning, Artificial Neural Networks
+- 👀 I’m interested in Machine Learning,
 - 🌱 I’m currently learning Python and Tensorflow
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python projects and Machine Learning Applications
 - 📫 How to reach me through Linkedin
 
 <!---
