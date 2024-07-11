@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aybukecoper
-- 👀 I’m interested in Machine Learning, Data Analytics 
+- 👀 I’m interested in AI applications, GEN AI, Machine Learning, Data Analytics 
 - 🌱 I’m currently learning Python and Tensorflow
 - 💞️ I’m looking to collaborate on Python projects and Machine Learning Applications
 - 📫 How to reach me through Linkedin
